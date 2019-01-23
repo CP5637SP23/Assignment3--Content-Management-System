@@ -1,0 +1,49 @@
+===Custom Review Post===
+
+Plugin Name: Review post
+Description: Customised review for the web page.
+Tags: Review, custmization
+Author: Ranjith ambalakandy kanakarajan
+Requires at least: 4.4
+Tested up to: 5.0
+Stable tag: 1.2
+Version: 0.1
+Requires PHP: 5.2
+License: GPL v2 or later
+
+
+
+== Description ==
+
+This plugin will help to display reviews with different taxonomies
+developers who like to change theme often don't have to code again and again for
+review taxonomies easy to customise.
+
+**Features**
+
+different taxonomy set up.
+REST API implemented for the future development.
+displays all the custom made taxonomies in single page.
+
+**GDPR**
+
+This plugin does not collect any user data. So it does _not_ do anything to make your site _less_ compliant with GDPR. I have done my best to ensure that this plugin is 100% GDPR compliant, but I'm not a lawyer so can't guarantee anything. To determine if your site is GDPR compliant, please consult an attorney.
+
+
+
+== Installation ==
+
+**How to Install**
+
+1. Upload the plugin to your blog and activate
+2. Visit the plugin settings to configure options
+
+[More info on installing WP plugins](http://codex.wordpress.org/Managing_Plugins#Installing_Plugins)
+
+
+
+== Upgrade Notice ==
+
+To upgrade this plugin, remove the old version and replace with the new version. Or just click "Update" from the Plugins screen and let WordPress do it for you automatically.
+
+Note: this plugin does not add anything to your WP database.
